@@ -8,15 +8,15 @@ This project aims to enhance the deployment process of new applications by ensur
 #### Expected outcomes:
 
 #### Skills:
-    - Docker
-    - Zango
-    - Django
-    - Python
+- Docker
+- Zango
+- Django
+- Python
 
 #### Mentors:
-    - Harsh Shah (https://github.com/shahharsh176)
-    - Deepak Dinesh (https://github.com/deepakdinesh1123)
-    - Bhuvnesh Sharma (https://github.com/devilsautumn)
+- Harsh Shah (https://github.com/shahharsh176)
+- Deepak Dinesh (https://github.com/deepakdinesh1123)
+- Bhuvnesh Sharma (https://github.com/devilsautumn)
 
 #### Size: 350 hours
 
@@ -31,15 +31,15 @@ This project aims to extend the functionality of Zango to support ManyToMany fie
 #### Expected outcomes:
 
 #### Skills:
-    - Django
-    - Python
-    - Zango
-    - PostgreSQL
+- Django
+- Python
+- Zango
+- PostgreSQL
 
 #### Mentors:
-    - Bhuvnesh Sharma (https://github.com/devilsautumn)
-    - Harsh Shah (https://github.com/shahharsh176)
-    - Deepak Dinesh (https://github.com/deepakdinesh1123)
+- Bhuvnesh Sharma (https://github.com/devilsautumn)
+- Harsh Shah (https://github.com/shahharsh176)
+- Deepak Dinesh (https://github.com/deepakdinesh1123)
 
 #### Size: 350 hours
 
@@ -54,15 +54,15 @@ This project aims to extend the functionality of Zango to support caching, allow
 #### Expected outcomes:
 
 #### Skills:
-    - Django
-    - Python
-    - Zango
-    - Redis
+- Django
+- Python
+- Zango
+- Redis
 
 #### Mentors:
-    - Harsh Shah (https://github.com/shahharsh176)
-    - Bhuvnesh Sharma (https://github.com/devilsautumn)
-    - Deepak Dinesh (https://github.com/deepakdinesh1123)
+- Harsh Shah (https://github.com/shahharsh176)
+- Bhuvnesh Sharma (https://github.com/devilsautumn)
+- Deepak Dinesh (https://github.com/deepakdinesh1123)
 
 #### Size: 350 hours
 
@@ -77,15 +77,15 @@ This project aims to add a security settings page to the Zango app panel, allowi
 #### Expected outcomes:
 
 #### Skills:
-    - Django
-    - Python
-    - Zango
-    - PostgreSQL
+- Django
+- Python
+- Zango
+- PostgreSQL
 
 #### Mentors:
-    - Harsh Shah (https://github.com/shahharsh176)
-    - Deepak Dinesh (https://github.com/deepakdinesh1123)
-    - Bhuvnesh Sharma (https://github.com/devilsautumn)
+- Harsh Shah (https://github.com/shahharsh176)
+- Deepak Dinesh (https://github.com/deepakdinesh1123)
+- Bhuvnesh Sharma (https://github.com/devilsautumn)
 
 #### Size: 90 hours
 
