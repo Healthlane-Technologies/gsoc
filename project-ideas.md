@@ -13,14 +13,15 @@ This project aims to enhance the deployment process of new applications by ensur
 - Django
 - Python
 
-#### Mentors:
-- Harsh Shah (https://github.com/shahharsh176)
-- Deepak Dinesh (https://github.com/deepakdinesh1123)
-- Bhuvnesh Sharma (https://github.com/devilsautumn)
+#### Potential Mentors:
+- [Harsh Shah](https://github.com/shahharsh176)
+- [Deepak Dinesh](https://github.com/deepakdinesh1123)
+- [Bhuvnesh Sharma](https://github.com/devilsautumn)
 
 #### Size: 350 hours
 
 #### Difficulty rating: Hard
+
 
 
 ### 2. Support ManyToMany Field in Zango
@@ -36,14 +37,15 @@ This project aims to extend the functionality of Zango to support ManyToMany fie
 - Zango
 - PostgreSQL
 
-#### Mentors:
-- Bhuvnesh Sharma (https://github.com/devilsautumn)
-- Harsh Shah (https://github.com/shahharsh176)
-- Deepak Dinesh (https://github.com/deepakdinesh1123)
+#### Potential Mentors:
+- [Harsh Shah](https://github.com/shahharsh176)
+- [Deepak Dinesh](https://github.com/deepakdinesh1123)
+- [Bhuvnesh Sharma](https://github.com/devilsautumn)
 
 #### Size: 350 hours
 
 #### Difficulty rating: Hard
+
 
 
 ### 3.Support for caching in Zango
@@ -59,14 +61,15 @@ This project aims to extend the functionality of Zango to support caching, allow
 - Zango
 - Redis
 
-#### Mentors:
-- Harsh Shah (https://github.com/shahharsh176)
-- Bhuvnesh Sharma (https://github.com/devilsautumn)
-- Deepak Dinesh (https://github.com/deepakdinesh1123)
+#### Potential Mentors:
+- [Harsh Shah](https://github.com/shahharsh176)
+- [Deepak Dinesh](https://github.com/deepakdinesh1123)
+- [Bhuvnesh Sharma](https://github.com/devilsautumn)
 
 #### Size: 350 hours
 
 #### Difficulty rating: Hard
+
 
 
 ### 4. Security Settings Page in App Panel
@@ -82,10 +85,10 @@ This project aims to add a security settings page to the Zango app panel, allowi
 - Zango
 - PostgreSQL
 
-#### Mentors:
-- Harsh Shah (https://github.com/shahharsh176)
-- Deepak Dinesh (https://github.com/deepakdinesh1123)
-- Bhuvnesh Sharma (https://github.com/devilsautumn)
+#### Potential Mentors:
+- [Harsh Shah](https://github.com/shahharsh176)
+- [Deepak Dinesh](https://github.com/deepakdinesh1123)
+- [Bhuvnesh Sharma](https://github.com/devilsautumn)
 
 #### Size: 90 hours
 
